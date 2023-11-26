@@ -13,7 +13,7 @@ function App() {
           <a href="#">home</a>
           <a href="#">contact</a>
           <a href="#">chat</a>
-          <a href="#">friends</a>
+          <a href="#">friend</a>
           <a href="#">profile</a>
         </div>
       </header>
