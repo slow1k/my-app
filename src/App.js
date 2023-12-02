@@ -10,7 +10,7 @@ function App() {
           <img src="twitt.png" alt="" />
         </div>
         <div class="text">
-          <a href="#">home</a>
+          <a href="#">main</a>
           <a href="#">contact</a>
           <a href="#">chat</a>
           <a href="#">friends</a>
